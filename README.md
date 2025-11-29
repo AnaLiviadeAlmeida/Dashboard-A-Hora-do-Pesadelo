@@ -18,6 +18,6 @@ Ele possui 3 Categorias:
 
 
 # Autora
-Criado por *Ana* *Livia* *de* *Almeida*
+Criado por *Ana Livia de Almeida*
 
 
