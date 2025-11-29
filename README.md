@@ -7,7 +7,7 @@ Ele possui 3 Categorias:
 - Financeiro (ROI médio, orçamento, bilheteria e faturamento)
 
 # Requesitos e Instalação para a visualização do Dashboard:
-![Atenção](https://img.shields.io/badge/ATENÇÃO-Importante-red?style=for-the-badge&logo=warning&logoColor=white)
+![Sirene](https://img.shields.io/badge/SIRENE-Alerta-critical?style=for-the-badge&logo=ambulance&logoColor=white)
 - Caso não tenha o Power Bi, instale ele;
 - Faça o download do arquivo Dashboard;
 - importante também ter o Image Grid no seu Power BI, para que as imagens dos protagonistas funcione (link: https://marketplace.microsoft.com/pt-br/product/power-bi-visuals/wa104381355?tab=overview).
