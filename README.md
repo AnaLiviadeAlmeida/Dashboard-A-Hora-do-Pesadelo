@@ -6,6 +6,7 @@ Ele possui 3 Categorias:
 - Personagens (Protagonistas, quantidade de personagens, número de m* e perosonagens repetidos)
 - Financeiro (ROI médio, orçamento, bilheteria e faturamento)
 
+![Atenção](https://img.shields.io/badge/ATENÇÃO-Importante-red?style=for-the-badge&logo=warning&logoColor=white)
 # Requesitos e Instalação para a visualização do Dashboard:
 - Caso não tenha o Power Bi, instale ele;
 - Faça o download do arquivo Dashboard;
