@@ -12,9 +12,9 @@ Ele possui 3 Categorias:
 - importante também ter o Image Grid no seu Power BI, para que as imagens dos protagonistas funcione (link: https://marketplace.microsoft.com/pt-br/product/power-bi-visuals/wa104381355?tab=overview).
 
 # Tecnologias Usadas:
-- Power Bi (Dashboard)
-- Figma (Fundo)
-- Excel (Dados)
+- Power Bi (Construção do dashboard)
+- Figma (Criação do fundo)
+- Excel (Onde foi armazenado os dados)
 
 
 # Autora
